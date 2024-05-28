@@ -1,0 +1,60 @@
+<%- include('partials/header') %>
+  <div class="container mt-5">
+    <h1>Submit request for help from your buddy ❤️ ❤️ </h1>
+    
+    <div class="row">
+      <div class="col-sm-7">
+        <div class="card">
+          <div class="card-body">
+
+            <!-- Makes POST request to /register route -->
+            <form action="/newrequest" method="POST">
+              <div class="form-group">
+                <label for="name">Class</label>
+                <select  class="form-control" name="subclass">
+                  <option value="">Select Class</option>
+                  <option value="6th">6th</option>
+                  <option value="7th">7th</option>
+                  <option value="8th">8th</option>
+                  <option value="9th">9th</option>
+                  <option value="10th">10th</option>
+                  </select>
+              </div>
+
+              <div class="form-group">
+                <label for="subject">Subject</label>
+                <select  class="form-control" name="subject">
+                  <option value="">Select Subject</option>
+                  <option value="Math">Math</option>
+                  <option value="Science">Science</option>
+                  <option value="English">English</option>
+                  <option value="Social Science">Social Science</option>
+                  <option value="Computer Science">Computer Science</option>
+                  </select>
+              </div>
+
+              <div class="form-group">
+                <label for="topic">Share topics (you need help for)</label>
+                <textarea id="topic" class="form-control" name="topic" rows="4" cols="50">
+                  </textarea>              
+                </div>
+              <button type="submit" class="btn btn-dark">Submit</button>
+            </form>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="card social-block">
+          <div class="card-body">
+            
+            <img src="images/school.png" height="400" width="200"/>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <%- include('partials/footer') %>

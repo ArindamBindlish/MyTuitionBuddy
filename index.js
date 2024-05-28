@@ -66,6 +66,9 @@ app.get("/register", (req, res) => {
 app.get("/newrequest", (req, res) => {
   res.render("newrequest.ejs", { user: req.user});
 });
+app.get("/requests", (req, res) => {
+  res.render("requests.ejs", { user: req.user});
+});
 
 app.get("/logout", (req, res) => {
   req.logout(function (err) {
@@ -109,34 +112,19 @@ app.post(
 
 
 app.post("/newrequest", async (req, res) => {
-  const email = req.body.username;
-  const password = req.body.password;
-  const usertype = req.body.usertype;
-  const fullname = req.body.fullname;
+  const subclass = req.body.subclass;
+  const subject = req.body.subject;
+  const topic = req.body.topic;
   try {
-    const checkResult = await db.query("SELECT * FROM users WHERE email = $1", [
-      email,
-    ]);
-
-    if (checkResult.rows.length > 0) {
-      req.redirect("/login");
-    } else {
-      bcrypt.hash(password, saltRounds, async (err, hash) => {
-        if (err) {
-          console.error("Error hashing password:", err);
-        } else {
           const result = await db.query(
-            "INSERT INTO users (email, password,usertype,fullname) VALUES ($1, $2,$3,$4) RETURNING *",
-            [email, hash, usertype,fullname]
+            "INSERT INTO requests (requser, class,subject,topic,status) VALUES ($1, $2,$3,$4,$5) RETURNING *",
+            [req.user.email,subclass, subject, topic,"Request Pending"]
           );
           const user = result.rows[0];
           req.login(user, (err) => {
             console.log("success");
-            res.redirect("/dashboard");
+            res.redirect("/requests");
           });
-        }
-      });
-    }
   } catch (err) {
     console.log(err);
   }
