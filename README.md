@@ -15,13 +15,23 @@
 
 
 <ul>
-  <li><B>July 2024</B></li> 
+  <li><B>Total 52+ hours of session delievred with 32+ classes helping 20+ stsudents!!!</B></li> 
+  <li><B>July 2024</B> 
     <ul>
       <li><B>Math : </B> Hours - 10 | Classes - 5 | Students - 8</li> 
-      <li><B>Science : </B> Hours - 10 | Classes - 5 | Students - 8</li> 
-      <li><B>Social Science : </B> Hours - 10 | Classes - 5 | Students - 8</li> 
-      <li><B>English : </B> Hours - 10 | Classes - 5 | Students - 8</li> 
-      <li><B>Comuter Science : </B> Hours - 10 | Classes - 5 | Students - 8</li> 
+      <li><B>Science : </B> Hours - 4 | Classes - 2 | Students - 3</li> 
+      <li><B>Social Science : </B> Hours - 0 | Classes - 0 | Students - 0</li> 
+      <li><B>English : </B> Hours - 2 | Classes - 1 | Students - 2</li> 
+      <li><B>Comuter Science : </B> Hours - 0 | Classes - 0 | Students - 0</li> 
+    </ul>
+  </li>
+  <li><B>Aug 2024</B> 
+    <ul>
+      <li><B>Math : </B> Hours - 20 | Classes - 10 | Students - 15</li> 
+      <li><B>Science : </B> Hours - 8 | Classes - 4 | Students - 11</li> 
+      <li><B>Social Science : </B> Hours - 4 | Classes - 4 | Students - 5</li> 
+      <li><B>English : </B> Hours - 6 | Classes - 4 | Students - 7</li> 
+      <li><B>Comuter Science : </B> Hours - 2 | Classes - 2 | Students - 3</li> 
     </ul>
   </li>
 </ul>
