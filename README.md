@@ -17,11 +17,11 @@
 <ul>
   <li><B>July 2024</B></li> 
     <ul>
-      <li><B>Math : </B> HOURS - 10 | CLASSES - 5 | STUDENTS - 8</li> 
-      <li><B>Science : </B> HOURS - 10 | CLASSES - 5 | STUDENTS - 8</li> 
-      <li><B>Social Science : </B> HOURS - 10 | CLASSES - 5 | STUDENTS - 8</li> 
-      <li><B>English : </B> HOURS - 10 | CLASSES - 5 | STUDENTS - 8</li> 
-      <li><B>Comuter Science : </B> HOURS - 10 | CLASSES - 5 | STUDENTS - 8</li> 
+      <li><B>Math : </B> Hours - 10 | Classes - 5 | Students - 8</li> 
+      <li><B>Science : </B> Hours - 10 | Classes - 5 | Students - 8</li> 
+      <li><B>Social Science : </B> Hours - 10 | Classes - 5 | Students - 8</li> 
+      <li><B>English : </B> Hours - 10 | Classes - 5 | Students - 8</li> 
+      <li><B>Comuter Science : </B> Hours - 10 | Classes - 5 | Students - 8</li> 
     </ul>
   </li>
 </ul>
