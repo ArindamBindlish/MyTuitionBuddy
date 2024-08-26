@@ -17,41 +17,11 @@
 <ul>
   <li><B>July 2024</B></li> 
     <ul>
-      <li><B>Math : <B>HOURS</B> - 10 | <B>CLASSES</B> - 5 | STUDENTS</B> - 8</B> 
-        <ul>
-        <li></li>
-        <li><B>CLASSES</B> - 5</li>
-        <li><B>STUDENTS</B> - 8</li>
-        </ul>
-      </li>
-      <li><B>SCIENCE</B> 
-        <ul>
-        <li><B>HOURS</B>  - 2</li>
-        <li><B>CLASSES</B> - 2</li>
-        <li><B>STUDENTS</B> - 2</li>
-        </ul>
-      </li>
-      <li><B>ENGLISH</B> 
-        <ul>
-        <li><B>HOURS</B> - 1</li>
-        <li><B>CLASSES</B> - 1</li>
-        <li><B>STUDENTS</B> - 1</li>
-        </ul>
-      </li>
-      <li><B>SOCIAL SCIENCE</B> 
-        <ul>
-        <li><B>HOURS</B> - 0</li>
-        <li><B>CLASSES</B> - 0</li>
-        <li><B>STUDENTS</B> - 0</li>
-        </ul>
-      </li>
-      <li><B>COMPUTER SCIENCE</B> 
-        <ul>
-        <li><B>HOURS</B> - 0</li>
-        <li><B>CLASSES</B> - 0</li>
-        <li><B>STUDENTS</B> - 0</li>
-        </ul>
-      </li>
+      <li><B><U>Math : </U></B> <B>HOURS</B> - 10 | <B>CLASSES</B> - 5 | STUDENTS</B> - 8</B> 
+      <li><B>SCIENCE : <B>HOURS</B> - 10 | <B>CLASSES</B> - 5 | STUDENTS</B> - 8</B> 
+      <li><B>ENGLISH : <B>HOURS</B> - 10 | <B>CLASSES</B> - 5 | STUDENTS</B> - 8</B> 
+      <li><B>SOCIAL SCIENCE : <B>HOURS</B> - 10 | <B>CLASSES</B> - 5 | STUDENTS</B> - 8</B> 
+      <li><B>COMPUTER SCIENCE : <B>HOURS</B> - 10 | <B>CLASSES</B> - 5 | STUDENTS</B> - 8</B> 
     </ul>
   </li>
 </ul>
