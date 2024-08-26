@@ -17,9 +17,9 @@
 <ul>
   <li><B>July 2024</B></li> 
     <ul>
-      <li><B>Math</B> 
+      <li><B>Math : <B>HOURS</B> - 10 | <B>CLASSES</B> - 5 | STUDENTS</B> - 8</B> 
         <ul>
-        <li><B>HOURS</B> - 10</li>
+        <li></li>
         <li><B>CLASSES</B> - 5</li>
         <li><B>STUDENTS</B> - 8</li>
         </ul>
