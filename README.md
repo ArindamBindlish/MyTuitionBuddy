@@ -19,37 +19,37 @@
     <ul>
       <li><B>Math</B> 
         <ul>
-        <li><B>HOURS</B> </li>
-        <li><B>CLASSES</B> </li>
-        <li><B>STUDENTS</B> </li>
+        <li><B>HOURS</B> - 10</li>
+        <li><B>CLASSES</B> - 5</li>
+        <li><B>STUDENTS</B> - 8</li>
         </ul>
       </li>
-      <li><B>Math</B> 
+      <li><B>SCIENCE</B> 
         <ul>
-        <li><B>HOURS</B> </li>
-        <li><B>CLASSES</B> </li>
-        <li><B>STUDENTS</B> </li>
+        <li><B>HOURS</B>  - 2</li>
+        <li><B>CLASSES</B> - 2</li>
+        <li><B>STUDENTS</B> - 2</li>
         </ul>
       </li>
-      <li><B>Math</B> 
+      <li><B>ENGLISH</B> 
         <ul>
-        <li><B>HOURS</B> </li>
-        <li><B>CLASSES</B> </li>
-        <li><B>STUDENTS</B> </li>
+        <li><B>HOURS</B> - 1</li>
+        <li><B>CLASSES</B> - 1</li>
+        <li><B>STUDENTS</B> - 1</li>
         </ul>
       </li>
-      <li><B>Math</B> 
+      <li><B>SOCIAL SCIENCE</B> 
         <ul>
-        <li><B>HOURS</B> </li>
-        <li><B>CLASSES</B> </li>
-        <li><B>STUDENTS</B> </li>
+        <li><B>HOURS</B> - 0</li>
+        <li><B>CLASSES</B> - 0</li>
+        <li><B>STUDENTS</B> - 0</li>
         </ul>
       </li>
-      <li><B>Math</B> 
+      <li><B>COMPUTER SCIENCE</B> 
         <ul>
-        <li><B>HOURS</B> </li>
-        <li><B>CLASSES</B> </li>
-        <li><B>STUDENTS</B> </li>
+        <li><B>HOURS</B> - 0</li>
+        <li><B>CLASSES</B> - 0</li>
+        <li><B>STUDENTS</B> - 0</li>
         </ul>
       </li>
     </ul>
