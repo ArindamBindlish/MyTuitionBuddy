@@ -16,13 +16,11 @@
 
 <ul>
   <li><B></B>July 2024<B> 
-  
     <ul>
     <li>Arindam Bindlish </li>
     <li>Tanish Alagh </li>
     <li>Omkar Chillar</li>
     <li>Manya Khanna</li>
     </ul>
-
   </li>
 </ul>
