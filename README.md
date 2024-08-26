@@ -1,4 +1,5 @@
 # MyTuitionBuddy www.mytuitionbuddy.com
+<img src="https://github.com/ArindamBindlish/MyTuitionBuddy/blob/main/public/images/school.png?raw=true" height="20" width="20"/>
 <P>
   'MyTuitionBuddy' is an idea, which I got when one of my house help was looking for someone to help her son understand math topics. I helped him understand many math concepts in his 6th class. Then I thought, there might be many students like this who need help but don't have any tuition fee to pay. Therefore, I decided to devote my Summer Project (2024) on this issue and designed the application 'MyTuitionBuddy' : Through this app, anyone and everyone can register and ask for help on any topic. We are group of students who volunteered to take out some time and help these students.
 </P>
