@@ -8,7 +8,7 @@
 <li>Omkar Chillar</li>
 <li>Manya Khanna</li>
 </ul>
-![VIEWS](https://github.com/ArindamBindlish/MyTuitionBuddy/blob/master/03_nodeauth/show.jpg)
+<img src="https://github.com/ArindamBindlish/MyTuitionBuddy/blob/main/public/images/school.png?raw=true"/>
 
 <p>
   Since its launch, it has seen great success and we are getting many requests from kids from NGOs and many other plaaces in India. Here are some stats for the same.
