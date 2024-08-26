@@ -10,5 +10,19 @@
 </ul>
 
 <p>
-  Since its launch its being great success and we are getting many requests from kids from NGOs and many other plaaces in India.
+  Since its launch its being great success and we are getting many requests from kids from NGOs and many other plaaces in India. Here are some stats fro same
 </p>
+
+
+<ul>
+  <li><B></B>July 2024<B> 
+  
+    <ul>
+    <li>Arindam Bindlish </li>
+    <li>Tanish Alagh </li>
+    <li>Omkar Chillar</li>
+    <li>Manya Khanna</li>
+    </ul>
+
+  </li>
+</ul>
