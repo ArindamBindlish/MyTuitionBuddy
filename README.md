@@ -35,6 +35,20 @@
       <li><B>Comuter Science : </B> Hours - 2 | Classes - 2 | Students - 3</li> 
     </ul>
   </li>
+  <li><B>Sep 2024</B> 
+    <ul>
+      <li><B>Math : </B> Hours - 100 | Classes - 10 | Students - 65</li> 
+      <li><B>Science : </B> Hours - 50 | Classes - 5 | Students - 55</li> 
+      <li><B>Social Science : </B> Hours - 20 | Classes - 2 | Students - 25</li> 
+      <li><B>English : </B> Hours - 6 | Classes - 4 | Students - 7</li> 
+      <li><B>Comuter Science : </B> Hours - 40 | Classes - 4 | Students - 55</li>
+    </ul>
+  </li>
+  <li><B>Collaboration with Parbhat - An Awakening NGO</B> 
+    <ul>
+      <li><img src="https://github.com/ArindamBindlish/MyTuitionBuddy/blob/main/public/images/IMG_3713.HEIC"/></li> 
+    </ul>
+  </li>
 </ul>
 
 <p><b>Website screens></b></p>
