@@ -46,7 +46,7 @@
   </li>
   <li><B>Collaboration with Parbhat - An Awakening NGO</B> 
     <ul>
-      <li><img src="https://github.com/ArindamBindlish/MyTuitionBuddy/blob/main/public/images/IMG_3713.HEIC"/></li> 
+      <li><img src="https://github.com/ArindamBindlish/MyTuitionBuddy/blob/main/public/images/IMG_3713.jpg"/></li> 
     </ul>
   </li>
 </ul>
