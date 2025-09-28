@@ -108,6 +108,12 @@
       <li>TBD- Break</li> 
     </ul>
   </li>
+
+  <li><B>Offiline Char=tbot queries answered till Q3 2025</B> 
+    <ul>
+      <li>100,000</li> 
+    </ul>
+  </li>
   
   <li><B>Collaboration with Parbhat - An Awakening NGO</B> 
     <ul>
