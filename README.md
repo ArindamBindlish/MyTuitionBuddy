@@ -109,7 +109,7 @@
     </ul>
   </li>
 
-  <li><B>Offiline Char=tbot queries answered till Q3 2025</B> 
+  <li><B>Offiline Chatbot queries answered till Q3 2025</B> 
     <ul>
       <li>100,000</li> 
     </ul>
