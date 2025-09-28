@@ -44,6 +44,71 @@
       <li><B>Comuter Science : </B> Hours - 40 | Classes - 4 | Students - 55</li>
     </ul>
   </li>
+  
+  <li><B>Oct 2024</B> 
+    <ul>
+      <li><B>Math : </B> Hours - 90 | Classes - 9 | Students - 59</li> 
+      <li><B>Science : </B> Hours - 45 | Classes - 4 | Students - 45</li> 
+      <li><B>Social Science : </B> Hours - 5 | Classes - 1 | Students - 10</li> 
+      <li><B>English : </B> Hours - 0 | Classes - 0 | Students - 0</li> 
+      <li><B>Comuter Science : </B> Hours - 40 | Classes - 4 | Students - 55</li>
+    </ul>
+  </li>
+  
+  <li><B>Nov 2024</B> 
+    <ul>
+      <li><B>Math : </B> Hours - 120 | Classes - 10 | Students - 60</li> 
+      <li><B>Science : </B> Hours - 50 | Classes - 5 | Students - 60</li> 
+      <li><B>Social Science : </B> Hours - 20 | Classes - 2 | Students - 20</li> 
+      <li><B>English : </B> Hours - 5 | Classes - 2 | Students - 3</li> 
+      <li><B>Comuter Science : </B> Hours - 80 | Classes - 6 | Students - 60</li>
+    </ul>
+  </li>
+  
+  <li><B>Dec 2024</B> 
+    <ul>
+      <li><B>Math : </B> Hours - 100 | Classes - 15 | Students - 65</li>  
+      <li><B>English : </B> Hours - 6 | Classes - 4 | Students - 45</li> 
+      <li><B>Comuter Science : </B> Hours - 90 | Classes - 15 | Students - 55</li>
+    </ul>
+  </li>
+  
+  <li><B>Q1 2025</B> 
+    <ul>
+      <li><B>Math : </B> Hours - 350 | Classes - 35 | Students - 65</li> 
+      <li><B>Science : </B> Hours - 150 | Classes - 15 | Students - 55</li> 
+      <li><B>Social Science : </B> Hours - 60 | Classes - 10 | Students - 25</li> 
+      <li><B>English : </B> Hours - 90 | Classes - 12 | Students - 8</li> 
+      <li><B>Comuter Science : </B> Hours - 90 | Classes - 12 | Students - 55</li>
+    </ul>
+  </li>
+
+
+  <li><B>Q2 2025</B> 
+    <ul>
+      <li><B>Math : </B> Hours - 400 | Classes - 40 | Students - 65</li> 
+      <li><B>Science : </B> Hours - 120 | Classes - 12 | Students - 55</li> 
+      <li><B>Social Science : </B> Hours - 60 | Classes - 10 | Students - 25</li> 
+      <li><B>English : </B> Hours - 80 | Classes - 10 | Students - 8</li> 
+      <li><B>Comuter Science : </B> Hours - 70 | Classes - 9 | Students - 55</li>
+    </ul>
+  </li>
+  
+  
+  <li><B>Q3 2025</B> 
+    <ul>
+      <li><B>Math : </B> Hours - 270 | Classes - 28 | Students - 65</li> 
+      <li><B>Science : </B> Hours - 150 | Classes - 15 | Students - 55</li> 
+      <li><B>Comuter Science : </B> Hours - 90 | Classes - 12 | Students - 55</li>
+    </ul>
+  </li>
+  
+  <li><B>Q4 2025</B> 
+    <ul>
+      <li>TBD- Break</li> 
+    </ul>
+  </li>
+  
   <li><B>Collaboration with Parbhat - An Awakening NGO</B> 
     <ul>
       <li><img src="https://github.com/ArindamBindlish/MyTuitionBuddy/blob/main/public/images/IMG_3698.jpg"/></li> 
